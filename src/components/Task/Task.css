@@ -1,0 +1,25 @@
+.Task {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 0.25em;
+
+  padding: 0.5em;
+}
+
+.desc {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  word-break: break-all;
+}
+
+.button {
+  background-color: transparent;
+  opacity: 0.3;
+  border: 0px;
+}
+
+.button:hover {
+  opacity: 1;
+}

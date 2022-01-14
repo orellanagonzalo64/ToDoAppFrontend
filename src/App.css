@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+ }
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+html {
+  background: rgb(1,0,14);
+ background: linear-gradient(90deg, rgba(1,0,14,1) 0%, rgba(235,6,226,1) 23%, rgba(0,202,244,1) 100%);
+}
